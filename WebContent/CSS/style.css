@@ -1,0 +1,12 @@
+#login{
+	background: #fff;
+	padding: 2em;
+	border-radius: 25px;
+	border: #ccc 2px solid;
+	padding: 40px; 
+    width: auto;
+    height: auto; 
+	position: absolute;
+	top: 250px;
+	left: 500px;
+}
